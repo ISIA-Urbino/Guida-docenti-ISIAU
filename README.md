@@ -1,5 +1,5 @@
 # Guida docenti ISIAU
-Repository ufficiale della Guida per i docenti di ISIA Urbino
+Repository ufficiale della Guida per i docenti di ISIA Urbino.
  
 Il nuovo sistema di creazione e aggiornamento dei contenuti della Guida si basa su [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/). Adatto ad un contesto accademico, è open-source, versatile, veloce, gratuito, e consente anche il pieno possesso dei dati da parte di ISIA Urbino.
 
