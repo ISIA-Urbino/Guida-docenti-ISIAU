@@ -1,0 +1,83 @@
+site_name: Guida Docenti ISIA U
+site_url: https://guidadocenti.isiaurbino.net
+copyright: Copyright &copy; 2025 - ISIA Urbino | Hai notato un errore? Segnalacelo <a href="mailto:segreteria.direzione@isiaurbino.net">scrivendoci</a>. Grazie!
+nav:
+  - Home: index.md
+  - Posta, Drive e Wifi: 'posta-drive-wifi.md'
+  - Calendario: 'calendario.md'
+  - Orario: 'orario.md'
+  - Aule e dotazioni: 'aule-dotazioni.md'
+  - La struttura: 'struttura.md'
+  - Gestione amministrativa: 'gestione-amministrativa.md'
+  - BES e DSA: 'bes-dsa.md'
+  - Mobilità Erasmus: 'erasmus.md'
+  - Contatti: 'contatti.md'
+  - Registro: 'registro.md'
+  - Progetti: 'progetti.md'
+  - Regolamenti: 'regolamenti.md'
+
+theme:
+  name: material
+  language: it
+  logo: images/ISIAU_logo-light.png
+  favicon: images/favicon.png
+  icon:
+    alternate: octicons/globe-24
+  features:
+    - #navigation.instant
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.indexes
+    - #navigation.prune
+    - #navigation.expand
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: black
+      toggle:
+        icon: material/brightness-3
+        name: Modalità notte
+     # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/brightness-7
+        name: Modalità giorno
+extra:
+  #alternate:
+    #- name: Italiano
+      #link: /it/
+      #lang: it
+    #- name: English
+      #link: /en/ 
+      #lang: en
+  generator: false
+  analytics:
+    provider: google
+    property: G-CQ6908H944
+  consent:
+    title: Cookie consent
+    description: >- 
+      Questo sito non esegue alcun tipo di profilazione, né richiede alcun dato personale. I suoi cookie hanno il solo scopo di aggiornare il conteggio visiste e, se possibile, ripristinare le vostre preferenze di lettura.     
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - https://code.jquery.com/jquery-3.7.1.min.js
+  - javascripts/extra.js
+plugins:
+  - search
+markdown_extensions:
+  - pymdownx.critic:
+      mode: view
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
