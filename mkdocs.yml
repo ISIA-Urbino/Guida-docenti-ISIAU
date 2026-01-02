@@ -18,6 +18,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   language: it
   logo: images/ISIAU_logo-light.png
   favicon: images/favicon.png
@@ -57,9 +58,9 @@ extra:
       #link: /en/ 
       #lang: en
   generator: false
-  analytics:
+  analytics: 
     provider: google
-    property: G-CQ6908H944
+    property: G-GZMZ70909L
   consent:
     title: Cookie consent
     description: >- 
