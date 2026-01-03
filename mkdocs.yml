@@ -1,5 +1,7 @@
 site_name: Guida Docenti ISIA U
 site_url: https://guidadocenti.isiaurbino.net
+site_description: Guide e risorse per docenti ISIA Urbino - procedure accademiche, modulistica, regolamenti didattici e supporto all'insegnamento
+site_author: ISIA Urbino
 copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino | Hai notato un errore? Segnalacelo <a href="mailto:collaborazione.funzionamento@isiaurbino.net">scrivendoci</a>. Grazie!
 nav:
   - Home: index.md
@@ -58,6 +60,19 @@ extra:
       #link: /en/ 
       #lang: en
   generator: false
+  meta:
+    - name: keywords
+      content: ISIA Urbino, guide docenti, procedure accademiche, modulistica docenti, regolamenti didattici, insegnamento design Urbino
+    - property: og:type
+      content: website
+    - property: og:title
+      content: Guide per Docenti - ISIA Urbino
+    - property: og:description
+      content: Guide e risorse per docenti ISIA Urbino - procedure e modulistica
+    - property: og:image
+      content: https://guidadocenti.isiaurbino.net/assets/ISIAU_logo-light.png
+    - property: og:url
+      content: https://guidadocenti.isiaurbino.net/
   analytics: 
     provider: google
     property: G-GZMZ70909L
@@ -70,6 +85,7 @@ extra_css:
 extra_javascript:
   - https://code.jquery.com/jquery-3.7.1.min.js
   - javascripts/extra.js
+  - javascripts/schema.js
 plugins:
   - search
 markdown_extensions:
