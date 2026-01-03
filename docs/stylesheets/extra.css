@@ -29,6 +29,9 @@ p {
     background-color: black;
     color: white;
 }
+[data-md-color-scheme=slate] .md-footer-meta.md-typeset a {
+    color: white;
+}
 [data-md-color-scheme=slate][data-md-color-primary=black] footer.md-footer  .md-copyright__highlight {
     color: white;
 }
