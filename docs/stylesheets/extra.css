@@ -29,7 +29,7 @@ p {
     background-color: black;
     color: white;
 }
-[data-md-color-scheme=slate] .md-footer-meta.md-typeset a {
+[data-md-color-scheme=slate] .md-footer-meta.md-typeset a, [data-md-color-scheme=slate] .md-footer-meta.md-typeset a:hover {
     color: white;
 }
 [data-md-color-scheme=slate][data-md-color-primary=black] footer.md-footer  .md-copyright__highlight {
