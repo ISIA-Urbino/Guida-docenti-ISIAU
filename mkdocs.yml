@@ -61,6 +61,8 @@ extra:
       #lang: en
   generator: false
   meta:
+    - name: google-site-verification
+      content: SOx3XJLfL3hlwVQk8DPgD0BRpeLAlQCPTL7C6GFjSb0
     - name: keywords
       content: ISIA Urbino, guide docenti, procedure accademiche, modulistica docenti, regolamenti didattici, insegnamento design Urbino
     - property: og:type
