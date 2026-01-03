@@ -1,6 +1,6 @@
 site_name: Guida Docenti ISIA U
 site_url: https://guidadocenti.isiaurbino.net
-copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script><script>document.write(new Date().getFullYear())</script> - ISIA Urbino | Hai notato un errore? Segnalacelo <a href="mailto:collaborazione.funzionamento@isiaurbino.net">scrivendoci</a>. Grazie!
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino | Hai notato un errore? Segnalacelo <a href="mailto:collaborazione.funzionamento@isiaurbino.net">scrivendoci</a>. Grazie!
 nav:
   - Home: index.md
   - Posta, Drive e Wifi: 'posta-drive-wifi.md'
