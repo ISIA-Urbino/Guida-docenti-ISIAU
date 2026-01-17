@@ -1,10 +1,20 @@
 # Orario delle lezioni
 
-L’orario delle lezioni viene definito in accordo con la direzione, grazie al supporto del :material-email-outline: [team “orario”](mailto:orario@isiaurbino.net), a cui va comunicata ogni eventuale modifica. 
+L’orario delle lezioni, definito in accordo con la direzione e con il supporto del [team Orario](mailto:orario@isiaurbino.net), è consultabile su Google Calendar utilizzando il proprio account istituzionale. 
 
-Le lezioni si svolgono, come stabilito dal calendario accademico: 
+Le lezioni si svolgono dal lunedì al sabato secondo il seguente orario:
+Mattino
+- dal lunedì al venerdì dalle ore 9 alle ore 13
+- sabato dalle ore 09 alle ore 13
 
-- il mattino, dal lunedì al sabato dalle 08:30 alle 12:30, oppure dalle 9 alle 13;
-- il pomeriggio, dal lunedì al venerdì dalle 14 alle 18.
+Pomeriggio
+- dal lunedì al venerdì dalle ore 14 alle ore 18
 
-Si raccomanda puntualità nella chiusura delle lezioni, per permettere un'agevole pulizia dell'Istituto a chiusura della giornata.
+Si evidenzia che:
+
+- non potranno risultare ore di lavoro prima della data di stipula del contratto o dopo la scadenza dello stesso e, qualora presenti sui registri delle lezioni, saranno eliminate d’ufficio;
+- come previsto dalla normativa sul lavoro, non è possibile svolgere attività per un numero di ore superiore a 9 e dovrà essere anche prevista una pausa pranzo di almeno 30 minuti;
+- si raccomanda puntualità nella chiusura delle lezioni per permettere al personale preposto un'agevole pulizia dell'Istituto a chiusura della giornata.
+
+!!! info "Attenzione"
+    Il docente è tenuto a comunicare con almeno 24 ore di anticipo ogni eventuale modifica rispetto a quanto concordato con la direzione per lo svolgimento delle proprie lezioni, inviando una mail all’account sopra riportato. Non potrà in alcun modo procedere autonomamente allo spostamento e sarà il team Orario a verificare la disponibilità dei giorni ancora liberi per la ricalendarizzazione. Non potrà, inoltre, inserire le proprie lezioni nella settimana dei workshop riservata al corso a cui è rivolta la propria disciplina.

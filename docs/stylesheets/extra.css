@@ -92,9 +92,23 @@ label.md-nav__title, h1#home {
 }
 [dir=ltr] .md-typeset ol, [dir=ltr] .md-typeset ul {
     margin-left: 0;
+    line-height: 1.25;
 }
 .md-typeset ol li, .md-typeset ul li {
     margin-bottom: 0.2rem;
+}
+.md-typeset ul {
+    list-style-type: none;
+}
+.md-typeset ul li:before {
+    content: "—";
+    margin-right: .3rem;
+}
+[dir=ltr] .md-typeset ul li {
+    margin-left: 0;
+}
+[dir=ltr] .md-typeset ul li li {
+    margin-left: 1.25rem;
 }
 .md-typeset ol li li, .md-typeset ul li li {
     margin-bottom: 0;

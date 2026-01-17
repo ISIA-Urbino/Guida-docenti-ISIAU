@@ -5,16 +5,9 @@ site_author: ISIA Urbino
 copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> - ISIA Urbino | Hai notato un errore? Segnalacelo <a href="mailto:collaborazione.funzionamento@isiaurbino.net">scrivendoci</a>. Grazie!
 nav:
   - Home: index.md
-  - Posta, Drive e Wifi: 'posta-drive-wifi.md'
-  - Calendario: 'calendario.md'
-  - Orario: 'orario.md'
-  - Aule e dotazioni: 'aule-dotazioni.md'
-  - La struttura: 'struttura.md'
-  - Gestione amministrativa: 'gestione-amministrativa.md'
-  - BES e DSA: 'bes-dsa.md'
-  - Mobilità Erasmus: 'erasmus.md'
-  - Contatti: 'contatti.md'
-  - Registro: 'registro.md'
+  - Posta elettronica e uso del Wifi: 'posta-wifi.md'
+  - Calendario accademico: 'calendario.md'
+  - Orario delle lezioni: 'orario.md'
   - Progetti: 'progetti.md'
   - Regolamenti: 'regolamenti.md'
 
