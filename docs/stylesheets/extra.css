@@ -101,7 +101,8 @@ label.md-nav__title, h1#home {
     list-style-type: none;
 }
 .md-typeset ul li:before {
-    content: "—";
+    content: "•";
+    color: #888;
     margin-right: .3rem;
 }
 [dir=ltr] .md-typeset ul li {
