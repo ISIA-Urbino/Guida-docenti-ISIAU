@@ -15,9 +15,7 @@ All'interno del [Vademecum appositamente predisposto](https://docs.google.com/do
 
 ## Modelli di progetti
 
-Per tutti i docenti che vogliano presentare un progetto, è disponibile un modello da scaricare e compilare:
-
-- [modello unificato di presentazione progetto](assets/regolamenti/ISIAU-Modello unificato di presentazione progetto.docx){:target="_blank"}
+Per tutti i docenti che vogliano presentare un progetto, è disponibile un modello da scaricare e compilare: [modello unificato di presentazione progetto](assets/regolamenti/ISIAU-Modello unificato di presentazione progetto.docx){:target="_blank"}.
 
 ## Tempistiche dei progetti
 

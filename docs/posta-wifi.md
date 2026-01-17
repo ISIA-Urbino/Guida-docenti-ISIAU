@@ -13,7 +13,7 @@ sua regolare consultazione. L'indirizzo email istituzionale potrà essere utiliz
 - Comunicazioni tra docenti
 - Comunicazioni con gli studenti e le studentesse
 
-Nel caso in cui un docente perda la password di accesso alla propria email istituzionale, potrà fare richiesta di reimpostazione della password mandando una mail (dall’indirizzo personale) all'[Ufficio ICT](mailto:ufficio.ict@isiaurbino.net).
+Nel caso in cui un docente perda la password di accesso alla propria email istituzionale, potrà fare richiesta di reimpostazione della password mandando una mail (dall’indirizzo personale) all':material-email-outline: [Ufficio ICT](mailto:ufficio.ict@isiaurbino.net).
 
 ## Uso del WiFi
 

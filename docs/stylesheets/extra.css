@@ -116,6 +116,7 @@ label.md-nav__title, h1#home {
 .md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
     --md-icon-size: .8rem;
     vertical-align: middle;
+    margin-bottom: .1rem;
 }
 @media screen and (max-width: 76.234375em) {
     .md-header__button.md-logo {

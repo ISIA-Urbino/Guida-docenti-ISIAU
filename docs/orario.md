@@ -1,14 +1,14 @@
 # Orario delle lezioni
 
-L’orario delle lezioni, definito in accordo con la direzione e con il supporto del [team Orario](mailto:orario@isiaurbino.net), è consultabile su Google Calendar utilizzando il proprio account istituzionale. 
+L’orario delle lezioni, definito in accordo con la direzione e con il supporto del :material-email-outline: [team Orario](mailto:orario@isiaurbino.net), è consultabile su Google Calendar utilizzando il proprio account istituzionale. 
 
 Le lezioni si svolgono dal lunedì al sabato secondo il seguente orario:
-Mattino
-- dal lunedì al venerdì dalle ore 9 alle ore 13
-- sabato dalle ore 09 alle ore 13
 
-Pomeriggio
-- dal lunedì al venerdì dalle ore 14 alle ore 18
+- mattino
+    - dal lunedì al venerdì dalle ore 9 alle ore 13
+    - sabato dalle ore 9 alle ore 13
+- pomeriggio
+    - dal lunedì al venerdì dalle ore 14 alle ore 18
 
 Si evidenzia che:
 
