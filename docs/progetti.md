@@ -15,8 +15,8 @@ All'interno del [Vademecum appositamente predisposto](https://docs.google.com/do
 
 ## Modelli di progetti
 
-Per tutti i docenti che vogliano presentare un progetto, è disponibile un modello da scaricare e compilare: [modello unificato di presentazione progetto](assets/regolamenti/ISIAU-Modello unificato di presentazione progetto.docx){:target="_blank"}.
+Per tutti i docenti che vogliano presentare un progetto, è necessario scaricare e compilare il modulo [modello unificato di presentazione progetto](assets/regolamenti/ISIAU-Modello unificato di presentazione progetto.docx){:target="_blank"}, da inviare poi al Direttore.
 
 ## Tempistiche dei progetti
 
-La procedura per la presentazione e l'approvazione di un progetto segue diverse fasi, con tappe indicative da considerare per una pianificazione efficace. È possibile seguire [questo piano che delinea tutte le fasi](https://docs.google.com/document/d/14PKQkVwAuVWo5khmo1ZgtICxe1_XPIoqNVf1LD4TRc8/edit?usp=drive_link){:target="_blank"} e i tempi specifici per ciascuna di esse, per capire quali possano essere i tempi necessari per l'avvio di un progetto.
+La procedura per la presentazione e l'approvazione di un progetto segue diverse fasi, con tappe indicative da considerare per una pianificazione efficace. È possibile seguire [questo piano che delinea tutte le fasi](https://docs.google.com/document/d/14PKQkVwAuVWo5khmo1ZgtICxe1_XPIoqNVf1LD4TRc8/edit?usp=drive_link){:target="_blank"} per ciascuna di esse, per capire quali possano essere i tempi necessari per l'avvio di un progetto.
