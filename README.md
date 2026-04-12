@@ -6,3 +6,4 @@ Il nuovo sistema di creazione e aggiornamento dei contenuti della Guida si basa 
  [Nelle parole](https://squidfunk.github.io/mkdocs-material/#what-our-users-say) di [John Maeda](https://it.wikipedia.org/wiki/John_Maeda),
  
  > Material for MkDocs is the magical, extensible, Open Source tool that makes sharing knowledge both easier and beautiful for both the writers and learners.
+ 
