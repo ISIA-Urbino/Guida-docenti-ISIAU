@@ -11,3 +11,4 @@ Lavoriamo costantemente per mantenere aggiornati i contenuti della guida. Per re
 3. [Orario delle lezioni](orario.md)
 4. [Progetti](progetti.md)
 5. [Regolamenti](regolamenti.md)
+6. [Tesi](tesi.md)

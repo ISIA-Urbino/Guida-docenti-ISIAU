@@ -10,6 +10,7 @@ nav:
   - Orario delle lezioni: 'orario.md'
   - Progetti: 'progetti.md'
   - Regolamenti: 'regolamenti.md'
+  - Tesi: 'tesi.md'
 
 theme:
   name: material
